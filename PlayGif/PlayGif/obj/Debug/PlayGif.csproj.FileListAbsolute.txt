@@ -1,0 +1,9 @@
+c:\users\cristi\documents\visual studio 2015\Projects\PlayGif\PlayGif\bin\Debug\PlayGif.exe.config
+c:\users\cristi\documents\visual studio 2015\Projects\PlayGif\PlayGif\bin\Debug\PlayGif.exe
+c:\users\cristi\documents\visual studio 2015\Projects\PlayGif\PlayGif\bin\Debug\PlayGif.pdb
+c:\users\cristi\documents\visual studio 2015\Projects\PlayGif\PlayGif\obj\Debug\PlayGif.csprojResolveAssemblyReference.cache
+c:\users\cristi\documents\visual studio 2015\Projects\PlayGif\PlayGif\obj\Debug\PlayGif.Form1.resources
+c:\users\cristi\documents\visual studio 2015\Projects\PlayGif\PlayGif\obj\Debug\PlayGif.Properties.Resources.resources
+c:\users\cristi\documents\visual studio 2015\Projects\PlayGif\PlayGif\obj\Debug\PlayGif.csproj.GenerateResource.Cache
+c:\users\cristi\documents\visual studio 2015\Projects\PlayGif\PlayGif\obj\Debug\PlayGif.exe
+c:\users\cristi\documents\visual studio 2015\Projects\PlayGif\PlayGif\obj\Debug\PlayGif.pdb
